@@ -4,4 +4,8 @@
 **/project**
 **project/**
 **target/**
-
+**target**
+*/target
+*/project
+*project/*
+*target/*
